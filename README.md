@@ -16,13 +16,13 @@
 # head: Provee información general (metadatos) acerca del documento, incluyendo su título y enlaces a scripts y hojas de estilos
 # body: Representa el contenido de un documento HTML. Solo puede haber un elemento body en un documento. Flujo de contenido.
 # header: Contiene al encabezado de una sección o documento, donde se colocan habitualmente los encabezados, los vínculos de navegación, los formularios de búsqueda, los logos, las tablas de contenidos, las introducciones.
-# section Representa una sección genérica de un documento. Sirve para determinar qué contenido corresponde a qué parte de un esquema. Piensa en el esquema como en el índice de contenido de un libro; un tema común y subsecciones relacionadas.
-# article Representa una composición auto-contenida en un documento, página, una aplicación o en el sitio, que se destina a distribuir de forma independiente o reutilizable, por ejemplo, en la indicación.
-# aside Representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento.
-# footer Representa un pie de página para el contenido de sección más cercano o el elemento  raíz de sección.
+# section: Representa una sección genérica de un documento. Sirve para determinar qué contenido corresponde a qué parte de un esquema. Piensa en el esquema como en el índice de contenido de un libro; un tema común y subsecciones relacionadas.
+# article: Representa una composición auto-contenida en un documento, página, una aplicación o en el sitio, que se destina a distribuir de forma independiente o reutilizable, por ejemplo, en la indicación.
+# aside: Representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento.
+# footer: Representa un pie de página para el contenido de sección más cercano o el elemento  raíz de sección.
 # Para texto se utilizaron las siguientes etiquetas
-# em Para cursiva
-# b Para negrita
-# small Para texto pequeño 
-# strong Para énfasis fuerte 
-# br Para saltos de línea
+# em: Para cursiva
+# b: Para negrita
+# small: Para texto pequeño 
+# strong: Para énfasis fuerte 
+# br: Para saltos de línea
